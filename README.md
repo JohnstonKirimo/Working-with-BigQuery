@@ -7,5 +7,5 @@
 
 
 - Quick overview of how to pull data from bigquery and analyze it using pyhon/pandas 
-** script is incomplete **
-** to update script once analysis is done **
+- ** script is incomplete **
+- ** to update script once analysis is done **
