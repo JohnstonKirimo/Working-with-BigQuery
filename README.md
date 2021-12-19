@@ -4,3 +4,7 @@
 #### BigQuery
 #### Pandas
 #### Python
+
+
+- Quick overview of how to pull data from bigquery and analyze it using pyhon/pandas 
+** to update script once analysis is complete **
